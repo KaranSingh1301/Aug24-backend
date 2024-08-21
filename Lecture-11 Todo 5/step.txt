@@ -26,13 +26,12 @@ edit API : Done
 delete API : Done
 
 Dashboard Client (axios)
-axios create API 
+axios create API  : Done
 axios read API : Done
 axios edit API: Done
-axios delete API
+axios delete API : Done
 
-Pagination API's
-Ratelimiting
+Pagination API's : Done
 Deploy server
 
 
